@@ -35,7 +35,9 @@
   * ![reddit](.github/icons/reddit.svg) [u/mayday-mayjay](https://www.reddit.com/user/mayday-mayjay) / ![discord](.github/icons/discord.svg) @maydaymayjay / The DreamScape system
   — main creator [+ programming, topic writing] 
   * ![reddit](.github/icons/reddit.svg) [u/Historical_Variety63](https://reddit.com/u/Historical_Variety63) / ![github](.github/icons/github-light.svg#gh-dark-mode-only)![github](.github/icons/github-dark.svg#gh-light-mode-only) [@HistoryVariety](https://github.com/Historyvariety)
-  — is bestieee, wrote topics, did exps, and did main playtests 
+  — is bestieee, wrote topics, did exps, and did main playtests
+  * ![reddit](.github/icons/reddit.svg) [u/RalphAzham](https://www.reddit.com/user/RalphAzham/) / ![github](.github/icons/github-light.svg#gh-dark-mode-only)![github](.github/icons/github-dark.svg#gh-light-mode-only) [@AzhamProdLive](https://github.com/AzhamProdLive)
+  — goddamn where do i even begin how much help there was picking at this stupid code ;-; /lh
 ## 🪐 ⭑ Join our Discord!
 
 We're up to chat! Come join us at our Discord server [here](https://discord.gg/Tx23rczN8N).
