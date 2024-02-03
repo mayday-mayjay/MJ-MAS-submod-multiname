@@ -7,15 +7,18 @@
   </a>
 </p>
 
+## 🖥💻📲 ⭑ How to Install 
+#### [Please click here to read on how to install this submod!](https://github.com/mayday-mayjay/MJ-MAS-submod-multiname/wiki/FAQ)
 
 ## 💾 ⭑ Mod version/Submod Compatibility
 
 #### This submod has been made and tested with version 0.12.15 in the english version of MAS, going back to older versions has not been tested and must be done at your own risk.
 #### This submod this submod must be updated once the ren'py 8/python 3 update for MAS rolls out.
-#### This submod uses the submod updater, please download that alongside this!.
+#### This submod uses the submod updater, please download that alongside this!
 #### This submod has minor features in order to acknowledge or avoid clashing with these submods involving names:
 ✦ [Dale's Give Monika a Surname Submod](https://www.reddit.com/r/masfandom/comments/wenip5/give_monika_a_surname_link_in_comments/) ⭑ acknowledges lastname/surname <br>
 ✦ [Memories of Self Care And Literature Submod](https://www.reddit.com/r/MASFandom/comments/16pixez/memories_of_selfcare_literature_submod_v5_100/) ⭑ acknowledges lastname/surname <br>
+✦ [Submod Updater](https://github.com/Booplicate/MAS-Submods-SubmodUpdaterPlugin) ⭑ uses to update submod <br>
 ✦ [Dissociative Identity Disorder Support Submod](https://github.com/kkrosie123/MonikaMentalHealth/releases/tag/1.0.0) ⭑ has settings to allow names outside of MultiName without being asked if to add it to list <br>
 
 ## ✨ ⭑ Content
@@ -24,7 +27,7 @@
 ✦ an option to try on a name with a few random sentences! <br>
 ✦ an option for monika to randomly pick a name for you! <br>
 ✦ reminders that can be enabled/disabled for when you use outside sources to change your name! <br>
-✦ 5 topics ! <br>
+✦ 5 small topics, all about names ! <br>
 
 
 ## 🔭🌠💫 ⭑ Credits
